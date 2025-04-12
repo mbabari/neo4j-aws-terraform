@@ -151,8 +151,8 @@ variable "neo4j-ami-list" {
     },
 
     "5" = {
-      "us-east-1"      = "ami-0a90799d0400252c7",
-    //  "us-east-1"      = "ami-0e400af847eb9a531",
+     // "us-east-1"      = "ami-0a90799d0400252c7",
+     "us-east-1"      = "ami-0e400af847eb9a531",
       "us-east-2"      = "ami-0107e71b1207b90c1",
       "us-west-1"      = "ami-01a47d8951b35c272",
       "us-west-2"      = "ami-074caf8265c21fd4d",
